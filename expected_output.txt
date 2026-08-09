@@ -1,0 +1,16 @@
+Time=0  | Address=0 | Data=xx
+Time=5  | Address=0 | Data=A1
+Time=10 | Address=1 | Data=A1
+Time=15 | Address=1 | Data=B2
+Time=20 | Address=2 | Data=B2
+Time=25 | Address=2 | Data=C3
+Time=30 | Address=3 | Data=C3
+Time=35 | Address=3 | Data=D4
+Time=40 | Address=4 | Data=D4
+Time=45 | Address=4 | Data=E5
+Time=50 | Address=5 | Data=E5
+Time=55 | Address=5 | Data=F6
+Time=60 | Address=6 | Data=F6
+Time=65 | Address=6 | Data=17
+Time=70 | Address=7 | Data=17
+Time=75 | Address=7 | Data=28
